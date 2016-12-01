@@ -87,3 +87,11 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Other files
+TestingRatings-1.txt
+TestingRatings-5.txt
+TestingRatings-10.txt
+TestingSet.txt
+TrainingSet.txt
+movie_titles.txt
